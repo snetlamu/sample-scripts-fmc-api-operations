@@ -126,13 +126,6 @@ python3 cisco_fmc_bulk_access_rules.py \
 --individual
 ```
 
-**Authentication Fails:**
-- Verify credentials
-- Check API permissions
-- Ensure REST API is enabled
-
----
-
 ## Security Warning
 
 ⚠️ Scripts disable SSL verification. In production:
