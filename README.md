@@ -142,3 +142,6 @@ python3 cisco_fmc_bulk_access_rules.py \
 - `--prefix`: Prefix for object names (default: NET_OBJ)
 - `--batch-size`: Number of objects per batch (default: 1000)
 - `--individual`: Use individual creation instead of bulk (fallback mode)
+
+### Note
+This repository is not being actively maintained by Cisco
